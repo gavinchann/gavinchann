@@ -23,9 +23,7 @@ I've worked on projects that highlight my technical, analytical, and problem-sol
 
 | Repository | Description |
 |---|---|
-| [BuzzMatch](YOUR_REPO_LINK) | A MERN stack student matching platform with profiles, messaging, project discovery, and teammate recommendations. |
-| [Boxsy Dashboard](YOUR_REPO_LINK) | Built dashboard features for company asks, investor requests, status tracking, and AI-assisted summaries. |
-| [Powerlifting Buddy](YOUR_REPO_LINK) | A C# app for tracking PRs, calculating RPE, and helping lifters manage training data. |
+| [BuzzMatch](https://github.com/hasinisandra/buzzmatch) | A MERN stack student matching platform with profiles, messaging, project discovery, and teammate recommendations. |
 
 ---
 
@@ -39,5 +37,5 @@ I've worked on projects that highlight my technical, analytical, and problem-sol
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gavinchann/)
 - Email: gavinchan@gatech.edu
