@@ -37,5 +37,5 @@ I've worked on projects that highlight my technical, analytical, and problem-sol
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gavinchann/)
-- Email: gavinchan@gatech.edu
+- [LinkedIn](https://www.linkedin.com/in/gavinchann/)
+- [Email]gavinchan@gatech.edu
