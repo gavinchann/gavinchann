@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gavin!
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavinchann/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-red?style=for-the-badge&logo=gmail)](mailto:gavichan@gatech.edu)
 
 ---
 
