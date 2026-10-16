@@ -24,7 +24,7 @@ I've worked on projects that highlight my technical, analytical, and problem-sol
 | Repository | Description |
 |---|---|
 | [BuzzMatch](https://github.com/hasinisandra/buzzmatch) | A MERN stack student matching platform with profiles, messaging, project discovery, and teammate recommendations. |
-| [SportsEdge](https://github.com/gavinchann/SportsEdge) | A Python/scikit-learn sports prediction project covering NBA, NFL, MLB, and NHL, with 10,811 historical games, five model variants, chronological backtesting, and an interactive dashboard. |
+| [SportsEdge](https://github.com/gavinchann/SportsEdge) | A Python/scikit-learn prediction platform for NBA, NFL, MLB, and NHL, with 20K+ historical games, six model variants, pregame forecasts, chronological backtesting, and a responsive dashboard. |
 
 ---
 
